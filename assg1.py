@@ -8,4 +8,5 @@ for i in digits:
 a=10
 b=10
 c=a+b
-print(c)
+
+print("value of", a,"+",b, "is", c)
